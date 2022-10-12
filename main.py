@@ -12,7 +12,7 @@ t	=	number of time periods elapsed
 
 from time import sleep
 
-p = (input("Enter initial amount:"))
+p = input("Enter initial amount:")
 
 r = input("Enter interest rate:")
 
